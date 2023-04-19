@@ -1,3 +1,3 @@
 # finalpro
-this is my final frt project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+this is my final frist project.
+Project link:- https://saritaksingh2805.github.io/Foodieblog/index.html
